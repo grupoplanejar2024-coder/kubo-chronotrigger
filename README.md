@@ -1,1 +1,1 @@
-# Chrono-Trigger
+# kubo-chronotrigger
